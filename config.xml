@@ -2,6 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "com.phonegap.example"
+	versionCode = "10"
     version   = "1.0.0">
 
 <name>Kentland Dental Service</name>
@@ -11,8 +12,8 @@
 Kentland Dental office located in Kentland Shopping center.
 </description>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
+<author href="https://sm-designs.com" email="sihanat@gmail.com">
+Sihanat Meas
 </author>
 
 </widget>
